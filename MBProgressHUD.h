@@ -238,7 +238,7 @@ NS_ASSUME_NONNULL_BEGIN
  * This also represents the minimum bezel distance to the edge of the HUD view.
  * Defaults to 20.f
  */
-@property (assign, nonatomic) CGFloat margin UI_APPEARANCE_SELECTOR;
+@property (assign, nonatomic) CGFloat marginH UI_APPEARANCE_SELECTOR;
 @property (assign, nonatomic) CGFloat marginV UI_APPEARANCE_SELECTOR;
 
 /**
